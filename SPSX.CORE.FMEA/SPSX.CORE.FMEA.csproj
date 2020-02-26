@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SPSX.CORE.FMEA.API\SPSX.CORE.FMEA.API.csproj" />
+    <ProjectReference Include="..\SPSX.CORE.FMEA.COMMON\SPSX.CORE.FMEA.COMMON.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telerik.UI.for.AspNet.Core" Version="2020.1.114" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>    
+
+</Project>

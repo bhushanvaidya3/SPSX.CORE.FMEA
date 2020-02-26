@@ -1,0 +1,8 @@
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.API.deps.json
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.API.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.API.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.API.csprojAssemblyReference.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.API.AssemblyInfoInputs.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.API.AssemblyInfo.cs
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.API.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.API\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.API.pdb

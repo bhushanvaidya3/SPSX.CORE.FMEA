@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\SPSX.CORE.FMEA.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\SPSX.CORE.FMEA.API.csproj",
+        "projectName": "SPSX.CORE.FMEA.API",
+        "projectPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\SPSX.CORE.FMEA.API.csproj",
+        "packagesPath": "C:\\Users\\vaidyab\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vaidyab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Backup Files\\telerik-nuget-pkg": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\SPSX.CORE.FMEA.COMMON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\SPSX.CORE.FMEA.COMMON.csproj",
+        "projectName": "SPSX.CORE.FMEA.COMMON",
+        "projectPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\SPSX.CORE.FMEA.COMMON.csproj",
+        "packagesPath": "C:\\Users\\vaidyab\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vaidyab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Backup Files\\telerik-nuget-pkg": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.csproj",
+        "projectName": "SPSX.CORE.FMEA",
+        "projectPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.csproj",
+        "packagesPath": "C:\\Users\\vaidyab\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vaidyab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Backup Files\\telerik-nuget-pkg": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\SPSX.CORE.FMEA.API.csproj": {
+                "projectPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.API\\SPSX.CORE.FMEA.API.csproj"
+              },
+              "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\SPSX.CORE.FMEA.COMMON.csproj": {
+                "projectPath": "C:\\projects\\net-core\\SPSX.CORE.FMEA\\SPSX.CORE.FMEA.COMMON\\SPSX.CORE.FMEA.COMMON.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Telerik.UI.for.AspNet.Core": {
+              "target": "Package",
+              "version": "[2020.1.114, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
