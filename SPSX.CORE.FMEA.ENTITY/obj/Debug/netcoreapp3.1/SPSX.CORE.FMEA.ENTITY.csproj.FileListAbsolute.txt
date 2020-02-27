@@ -1,0 +1,8 @@
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.deps.json
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.csprojAssemblyReference.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.AssemblyInfoInputs.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.AssemblyInfo.cs
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.ENTITY\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.pdb

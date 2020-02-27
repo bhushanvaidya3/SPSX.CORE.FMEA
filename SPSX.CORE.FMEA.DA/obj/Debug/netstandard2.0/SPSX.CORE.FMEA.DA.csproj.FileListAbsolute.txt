@@ -1,0 +1,8 @@
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.deps.json
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.csprojAssemblyReference.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.AssemblyInfoInputs.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.AssemblyInfo.cs
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.COMMON.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netstandard2.0\SPSX.CORE.FMEA.COMMON.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netstandard2.0\SPSX.CORE.FMEA.DA.csproj.CopyComplete

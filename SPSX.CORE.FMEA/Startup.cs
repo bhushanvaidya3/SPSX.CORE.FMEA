@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SPSX.CORE.FMEA.API.Implementation;
 using SPSX.CORE.FMEA.API.Interfaces;
+using SPSX.CORE.FMEA.COMMON;
 
 namespace SPSX.CORE.FMEA
 {
@@ -26,7 +27,7 @@ namespace SPSX.CORE.FMEA
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            // services.Configure<ConfigurationManager>(Configuration.GetSection("ConfigurationManager"));
+            services.Configure<ConfigurationManager>(Configuration.GetSection("ConfigurationManager"));
             services.AddKendo();
             services.AddTransient<IControlMethodForm, ManageControlMethodForm>();
         }

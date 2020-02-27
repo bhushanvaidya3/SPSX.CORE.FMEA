@@ -1,0 +1,13 @@
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.deps.json
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.COMMON.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.COMMON.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\bin\Debug\netcoreapp3.1\SPSX.CORE.FMEA.ENTITY.pdb
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.csprojAssemblyReference.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.AssemblyInfoInputs.cache
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.AssemblyInfo.cs
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.csproj.CopyComplete
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.dll
+C:\projects\net-core\SPSX.CORE.FMEA\SPSX.CORE.FMEA.DA\obj\Debug\netcoreapp3.1\SPSX.CORE.FMEA.DA.pdb
